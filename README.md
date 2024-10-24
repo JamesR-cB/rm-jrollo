@@ -18,7 +18,7 @@ I bet I can find a cheap RM2 somewhere in the future very easily. I still have a
 
 # Observations
 
-- Linux based ARM tablet running a 5.x kernel (I think 5.15 but I don't remember 100%)
+- Linux based ARM tablet running a 5.4 kernel 
 - <img width="988" alt="image" src="https://github.com/user-attachments/assets/d75c649e-5d6f-44bb-8761-bd1886497738">
 - Runs Busybox and systemd
 - - ????? busybox has init scripts, why both?
